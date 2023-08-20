@@ -7,7 +7,10 @@
 - 내가 사용한 소비내역 입력을 통한 지출계획을 한눈에 보는 서비스 구축
 
 ### 배경
+### 배포링크
+https://dashing-sorbet-f9defc.netlify.app/
 
+###기본아이디비밀번호
 
 ## 프로젝트 기술 스택
 ### Environments
